@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome to Crew-Co
+
+# About us
+
+We Here at Crew-co build tools that we think might be useful to Us or you
+
+Weather it be tools for School Ie Calculators,Automation things etc or for thoes on the PenTest Side we build our own PenTest Tools
+We will do Prjects for the People That ask us to do them
 
 <!--
 
